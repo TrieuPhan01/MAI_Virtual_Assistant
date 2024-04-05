@@ -4,4 +4,4 @@ I. Install Python
 II. The steps run the project
 Cloning the project
 Openning one of projects
-Reinstalling the libraries: pip install -r requirements.txt
+Reinstalling the libra ries: pip install -r requirements.txt
