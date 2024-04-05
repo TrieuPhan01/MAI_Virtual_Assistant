@@ -1,0 +1,39 @@
+{
+        "intents": [
+          {
+            "tag": "Xin chào",
+            "patterns": [
+              "Hi",
+              "Hey",
+              "Chào Mai",
+              "Lâu rồi không nói chuyện với bạn",
+              "Hello",
+              "Chào ngày mới"
+            ],
+            "responses": [
+              "Xin Chào ",
+              "Chào bạn, mình rất vui khi được gặp bạn",
+              "Xin chào, tôi có thể giúp gì cho bạn",
+              "Hey, Bạn cần sự giúp đỡ sao?"
+            ]
+          },
+          {
+            "tag": "tạm biệt",
+            "patterns": ["Bye", "See you later", "Goodbye"],
+            "responses": [
+              "See you later, thanks for visiting",
+              "Have a nice day",
+              "Bye! Come back again soon."
+            ]
+          },
+          {
+            "tag": "buồn",
+            "patterns": ["không vui", "sầu"],
+            "responses": ["Không sao hãy vui lên!", "Bạn hãy nghe 1 bài hát để giải tỏa tâm trạng!"]
+          }
+
+        ]
+      }
+
+
+
